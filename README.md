@@ -11,7 +11,7 @@ I am Jemel Limjuco, a passionate coder with strong database management skills. I
 
 - *BS Information Technology*
   - New Era University
-  - 2021-Present
+  - 2023-Present
 
 ## Certifications
 
